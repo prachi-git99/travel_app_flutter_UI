@@ -1,18 +1,1 @@
-# Hasanm08 Flutter Project [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/hasanm08/flutter)
-
-Just a simple app. to have a release version message me
-<p></p>
-t.me/hasanm08
-<p></p>
-<p></p>
-
-<p align="center">
-  <img  src="threed_mockup (3).png">
-</p>
-
-<p align="center">
-  <img  src="Screen2.png">
-</p>
-<p align="center">
-  <img  src="Screen3.png">
-</p>
+![travel app](https://github.com/prachi-git99/travel_app_flutter_UI/assets/83897459/ca9266bd-7ad5-4c25-846b-1457affbe5d6)
